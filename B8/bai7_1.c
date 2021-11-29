@@ -29,6 +29,7 @@ int main(){
 	qsort(a, n, sizeof(a[0]), compare_d);
 	printf("Mang sau khi sap xep: ");
 	print_a(a, n);
+	free(a);
 	return 0;
 }
 
