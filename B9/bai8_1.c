@@ -46,7 +46,7 @@ int main(int argv, char * argc[]){
 		//printf("%lf\n", list[i]);
 		i++;
 	}
-	qsort(list, 1000, sizeof(double), compare_d);
+	qsort(list, 1000, sizeof(double), cmp_inc_d);
 	for(int m = 0; m < K; m++) {
 		printf("%lf\n", list[m]);
 	}
