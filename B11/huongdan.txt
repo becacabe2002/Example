@@ -1,0 +1,46 @@
+fgets
+fscanf
+// Kiểm tra giá trị trả về
+
+struct song{
+	char *name;
+	char *singer;
+	char *musician;
+	int year;
+} *song_t;
+
+int song_cmp_name(const void *v1, const void *v2){
+	return strcmp(((song_t)v1)->name, ((song_t)v2)->name);
+}
+
+// kiểm tra chứa chuỗi
+if(strstr(...)){
+	//đưa ra
+}
+
+// thêm bài hát
+// xoá bài hát
+
+
+int main() {
+	// hướng dẫn sử dụng if argc != 2 ...
+	// khai báo biến
+	//  -- Lưu trữ danh sách
+	//  thêm, xoá, chưa biết số lượng
+	==> sll của cấu trúc bài hát
+	or  arr(cấu trúc bài hát)...
+	//  -- hiển thị & sắp xếp (hàm đóng gói qsort, định nghĩa so sánh)
+	for(;;){
+	// in ra menu chính
+	scanf choice
+	kiểm tra choice nhập vào
+	if(choice == 1){
+		// truyền biến vào hàm
+	} else if (choice == 2){
+		// làm thao tác số 2
+	}
+	..
+	else if(choice == 5) break; //thoat chương trình
+	// Khai báo biến
+	}
+}

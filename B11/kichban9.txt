@@ -1,0 +1,22 @@
+Giải thích cách biên dịch, sau đó biên dịch và
+chạy chương trình với tệp songs9.txt
+
+1.1. Xem danh sách bài hát sắp xếp theo tên bài hát
+1.2. Xem danh sách bài hát sắp xếp theo tên ca sỹ
+1.3. Xem danh sách bài hát sắp xếp theo tên nhạc sỹ
+1.4. Xem danh sách bài hát sắp xếp theo năm sáng tác
+
+2.1. Lọc danh sách bài hát theo tên bài hát: Nhập "Bài hát"
+2.2. Lọc danh sách bài hát theo tên ca sỹ: Nhập "NV"
+2.3. Lọc danh sách bài hát theo tên nhạc sỹ: Nhập "ST"
+2.4. Lọc danh sách bài hát theo năm sáng tác: Nhập 1991
+
+2.3. Thêm bài hát:
+     Tên bài hát: Bài hát mới
+     Tên ca sỹ: NVA
+     Tên nhạc sỹ: NVB
+     Năm sáng tác: 2021
+
+2.4. Xóa bài hát: Lọc theo tên bài hát, nhập: 1, chọn xóa bài hát Bài ca không tên 2.
+
+2.5. Thoát chương trình, sau đó chạy lại chương trình với songs9.txt, sau đó xem danh sách bài hát được sắp xếp tăng dần theo tên bài hát.
