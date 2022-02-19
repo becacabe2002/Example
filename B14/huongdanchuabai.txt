@@ -1,0 +1,3 @@
+dùng mảng vì danh sách móc nối bất tiện
+dùng gvec
+Dùng Hmap và gvec
